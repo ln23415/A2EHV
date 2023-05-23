@@ -1,6 +1,7 @@
 # A2EHV: Automated Alignment Evaluation for Large Language Models with a Heterogeneous Value System
 
 This is the official code repo for the paper: Automated Alignment Evaluation for Large Language Models with a Heterogeneous Value System
+![result](https://github.com/ln23415/A2EHV/blob/main/results.png)
 
 ### Prompt
 
