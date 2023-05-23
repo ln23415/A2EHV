@@ -10,13 +10,6 @@ All tasks related prompts used in A2EHV are listed in `prompts` folder, you can 
 
 The code under `utils` foler are the tools related with SVO measurement.
 
-
-### Reference
-
-Part of our code for interacting with the Claude Slack chat-bot referred to https://github.com/jasonthewhale/Claude_In_Slack_API.
-
-
-
 ## License
 A2EHV is released under MIT License.
 
